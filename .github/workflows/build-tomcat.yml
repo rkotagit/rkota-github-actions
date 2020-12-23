@@ -13,7 +13,7 @@ jobs:
 
     - name: List project files and java version
       run: |
-          cd ./rkota-github-actions/linkedin_learn_gh-actions/Ch03/03_03/
+          cd ./linkedin_learn_gh-actions/Ch03/03_03/
           ls -ltr
           java -version
 
